@@ -19,7 +19,8 @@ public class Isogram {
 
         if(str.length() == mySet.size()){
             return true;
-        }else{
+        }
+        else{
             return false;
         }
     }
